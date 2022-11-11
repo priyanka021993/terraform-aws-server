@@ -1,1 +1,3 @@
-# terraform-aws-server
+# terraform-aws-server Module 
+
+Terraform module for sample server creation
